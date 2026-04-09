@@ -1,3 +1,5 @@
+DISCLAIMER : "Mohon maaf sebelumnya dikarenakan saya menggunakan device lab akun sebelumnya masih nyangkut, oleh karena itu first commit tercatat dilakukan oleh akun sebelumnya"
+
 Polling App
 
 Polling App adalah aplikasi sederhana berbasis **Flask** dan **PostgreSQL** untuk membuat polling, melakukan voting, serta melihat hasilnya secara real-time. Proyek ini dikemas menggunakan **Docker Compose** sehingga mudah dijalankan di berbagai lingkungan.
